@@ -1,0 +1,7 @@
+C:\Users\stud\source\repos\Seminar3_1065\bin\Debug\Seminar3_1065.exe.config
+C:\Users\stud\source\repos\Seminar3_1065\bin\Debug\Seminar3_1065.exe
+C:\Users\stud\source\repos\Seminar3_1065\bin\Debug\Seminar3_1065.pdb
+C:\Users\stud\source\repos\Seminar3_1065\obj\Debug\Seminar3_1065.csproj.AssemblyReference.cache
+C:\Users\stud\source\repos\Seminar3_1065\obj\Debug\Seminar3_1065.csproj.CoreCompileInputs.cache
+C:\Users\stud\source\repos\Seminar3_1065\obj\Debug\Seminar3_1065.exe
+C:\Users\stud\source\repos\Seminar3_1065\obj\Debug\Seminar3_1065.pdb
